@@ -9,3 +9,5 @@ Un blog increible para el curso de Git y Github de Plazi
 * Como estas?
 * Probando
 * Creado por el increible Juan
+* Incluye muchas cosas
+* Disponible para todas las edades
