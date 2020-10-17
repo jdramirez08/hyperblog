@@ -42,12 +42,13 @@
      id="namedview107"
      showgrid="false"
      inkscape:zoom="0.54492188"
-     inkscape:cx="93.043428"
-     inkscape:cy="248.00203"
+     inkscape:cx="124.33163"
+     inkscape:cy="230.51063"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="_x33_0" />
+     inkscape:current-layer="g102"
+     inkscape:document-rotation="0" />
   <g
      id="g104"
      transform="translate(-1,-1)">
@@ -220,6 +221,13 @@
       <path
          d="m 52,1 h 2 v 2 h -2 z"
          id="path100" />
+      <ellipse
+         style="fill:#575757;stroke-width:0.125"
+         id="path881"
+         cx="53.310135"
+         cy="59.887405"
+         rx="2.3472314"
+         ry="1.0033656" />
     </g>
   </g>
 </svg>
